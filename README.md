@@ -1,9 +1,30 @@
-- 👋 Hi, I’m @Gus22623
-- 👀 I’m interested in learning new coding languages, and techniques that will help my goal in becoming a developer one day.
-- 💞️ I’m looking to collaborate on any project!
-- 📫 How to reach me, my email is ramirez19474@gmail.com
+### Hi, I'm Gustavo welcome to my GitHub! 👋
 
-<!---
-Gus22623/Gus22623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a 25-year-old developer from Texas. I love to make my dreams and ideas into reality.
+
+If you want to know more about me, check out my [website](https://verdant-wisp-dc623f.netlify.app/)!
+
+ ## 🛠️ Skills 
+
+A couple of the things that are in my toolbox!
+- JavaScript
+- HTML/CSS
+- React
+- Node.js
+- Git
+- MySQL
+- Python
+- Java
+- Assembly
+- Flask
+- MATLAB
+- C/ C#/ C++
+- Agile Development
+- Linux
+
+
+## 📧 Contact 
+
+If you need to get in contact with me, the best way to do it is through my [email](mailto:ramirez19474@gmail.com), or through my [LinkedIn](https://www.linkedin.com/in/gustavo-ramirez31).
+
+
