@@ -7,23 +7,13 @@ If you want to know more about me, check out my [website](https://verdant-wisp-d
  ## 🛠️ Skills 
 
 A couple of the things that are in my toolbox!
-- JavaScript
-- HTML/CSS
-- React
-- Node.js
-- Git
-- MySQL
-- Python
-- Java
-- Assembly
-- Flask
-- MATLAB
-- C/ C#/ C++
-- Agile Development
-- Linux
 
+**Frontend:** `JavaScript` `HTML/CSS` `React` `Node.js` `Git` `MySQL`  
 
-## 📧 Contact 
+**Backend:** `Python` `Java` `C/C#/C++`
+
+**Other:**
+`Assembly` `Flask` `MATLAB`  `Agile Development` `Linux`
 
 If you need to get in contact with me, the best way to do it is through my [email](mailto:ramirez19474@gmail.com), or through my [LinkedIn](https://www.linkedin.com/in/gustavo-ramirez31).
 
