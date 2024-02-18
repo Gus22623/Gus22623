@@ -15,6 +15,7 @@ A couple of the things that are in my toolbox!
 **Other:**
 `Assembly` `Flask` `MATLAB`  `Agile Development` `Linux`
 
+## 📧 Contact
 If you need to get in contact with me, the best way to do it is through my [email](mailto:ramirez19474@gmail.com), or through my [LinkedIn](https://www.linkedin.com/in/gustavo-ramirez31).
 
 
